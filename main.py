@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Mar 10 21:32:39 2025
-
-@author: Nidhi
-"""
-#Practical 8
 #Implementing Recognition of Handwritten Digits (MNIST) Datasets with CNN
 import numpy as np
 import pandas as pd
